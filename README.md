@@ -1,6 +1,9 @@
 # Laptop Price Prediction Web App
 This is a simple machine learning web application built with Streamlit that predicts the estimated price of a laptop based on its key specifications. The app uses a pre-trained Random Forest Regressor model to provide a quick price estimation.
 
+# Image 
+![image](laptop.png)
+
 # How to Set Up and Run the App
 Follow these steps to get the app running on your local machine.
 
